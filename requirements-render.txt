@@ -1,0 +1,36 @@
+# Core LLM and embedding tools
+langchain
+sentence-transformers
+
+# PDF & text parsing
+PyPDF2
+python-docx
+tika
+pdfplumber
+PyMuPDF
+
+# Web scraping & API tools
+requests
+beautifulsoup4
+
+# SQLite DB
+sqlite-utils
+
+# Email sending
+email-validator
+
+# General utilities
+tqdm
+pydantic
+python-dotenv
+
+# Optional: For scheduling interviews
+schedule
+
+# Web framework and frontend dependencies
+flask
+flask-cors
+pandas
+
+# Render-specific
+gunicorn
