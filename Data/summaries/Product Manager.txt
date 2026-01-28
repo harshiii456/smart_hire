@@ -1,0 +1,17 @@
+- Role: Product Manager
+   - Responsibilities:
+     - Define product vision and strategy based on market research and customer needs.
+     - Collaborate with cross-functional teams (engineering, design, marketing) to develop and launch products.
+     - Prioritize features, create roadmaps, and manage the product lifecycle.
+     - Analyze user feedback and data to optimize product performance.
+     - Ensure alignment between business goals and product development.
+
+   - Required Skills:
+     - Strong analytical skills for market research and data-driven decision making.
+     - Leadership abilities to manage cross-functional teams effectively.
+     - Excellent communication skills to articulate product vision and requirements.
+
+   - Qualifications:
+     - Bachelor's degree in Business, Computer Science, or a related field.
+     - Experience in product management, agile methodologies, and market research.
+     - Familiarity with project management tools.

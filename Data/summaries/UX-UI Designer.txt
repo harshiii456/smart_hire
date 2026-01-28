@@ -1,0 +1,13 @@
+- Role: UX/UI Designer
+   - Key Responsibilities:
+     1. Design wireframes, prototypes, and UI elements based on user needs.
+     2. Conduct user research and usability testing to refine designs.
+     3. Collaborate with developers to ensure accurate implementation of designs.
+     4. Stay updated with design trends and best practices.
+
+   - Required Skills:
+     1. Proficiency in design tools such as Figma, Adobe XD, or Sketch.
+     2. Strong understanding of user experience principles and front-end technologies.
+
+   - Qualifications:
+     1. Bachelor's degree in Design, Human-Computer Interaction, or a related field.

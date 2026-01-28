@@ -1,0 +1,15 @@
+- **Responsibilities**:
+    1. Develop and execute test plans, cases, and scripts for software applications.
+    2. Identify and document software defects or bugs, ensuring timely resolution.
+    3. Automate testing processes to improve efficiency and effectiveness.
+    4. Collaborate with developers to enhance software quality and performance.
+    5. Conduct performance and security testing as necessary.
+
+   - **Required Skills**:
+    1. Proficient in using testing tools such as Selenium, JUnit, or TestNG.
+    2. Strong analytical and problem-solving skills to identify issues and provide effective solutions.
+    3. Knowledge of software development lifecycle (SDLC) and Agile methodologies.
+
+   - **Qualifications**:
+    1. Bachelor's degree in Computer Science, Engineering, or a related field.
+    2. Ability to work independently as well as collaboratively within a team environment.

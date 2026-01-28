@@ -1,0 +1,14 @@
+- Role: Network Engineer
+   - Responsibilities:
+     1. Design and deploy network solutions for optimal performance.
+     2. Monitor network health and troubleshoot issues as they arise.
+     3. Implement security measures to protect network integrity.
+     4. Manage firewalls, routers, switches, and VPNs.
+     5. Ensure compliance with networking best practices and standards.
+   - Required Skills:
+     1. Strong knowledge of networking protocols such as TCP/IP, DNS, and DHCP.
+     2. Proficiency in Cisco, Juniper, or similar networking technologies.
+     3. Problem-solving skills and ability to work under pressure.
+   - Qualifications:
+     1. Bachelor's degree in Computer Science, IT, or a related field.
+     2. Experience with firewalls, routers, and enterprise networking.

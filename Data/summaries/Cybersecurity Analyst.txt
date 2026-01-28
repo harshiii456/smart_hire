@@ -1,0 +1,16 @@
+- **Job Title:** Cybersecurity Analyst
+   - **Responsibilities:**
+     - Monitor and analyze security alerts to detect potential threats.
+     - Conduct vulnerability assessments and risk analysis.
+     - Implement security policies, firewalls, and encryption protocols.
+     - Investigate and respond to security breaches.
+     - Ensure compliance with cybersecurity regulations and best practices.
+
+   - **Required Skills:**
+     - Proficiency in using security tools like SIEM, firewalls, and intrusion detection systems.
+     - Knowledge of network security, encryption, and risk management.
+     - Strong analytical and problem-solving skills.
+
+   - **Qualifications:**
+     - Bachelor's degree in Cybersecurity, Computer Science, or a related field.
+     - Certifications like CEH, CISSP, or CompTIA Security+ are a plus but not mandatory.

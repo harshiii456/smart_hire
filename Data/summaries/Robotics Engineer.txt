@@ -1,0 +1,14 @@
+- Job Title: Robotics Engineer
+
+   Responsibilities:
+     1. Design, build, and test robotic systems for industrial or research purposes.
+     2. Develop software algorithms for navigation, control, and automation of the robotics.
+     3. Integrate sensors, actuators, and AI-based decision-making systems into the robots.
+     4. Troubleshoot issues and optimize the performance of the robotic systems.
+     5. Stay informed about emerging robotics technologies and advancements.
+
+   Qualifications:
+     1. Degree in Robotics, Mechanical Engineering, or a related field with either a Bachelor's or Master's degree.
+     2. Proficiency in C++, Python, and ROS (Robot Operating System).
+     3. Experience with embedded systems, motion planning, and AI applications in robotics.
+     4. Strong analytical and problem-solving skills.

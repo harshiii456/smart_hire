@@ -1,0 +1,15 @@
+- **Job Title:** Software Engineer
+
+   - **Responsibilities:**
+     1. Develop, test, and deploy software applications.
+     2. Write clean, maintainable, and scalable code.
+     3. Collaborate with cross-functional teams to define and implement features.
+     4. Troubleshoot and debug issues for optimal performance.
+     5. Stay updated with emerging technologies and best practices.
+
+   - **Qualifications:**
+     1. Bachelor's degree in Computer Science or a related field.
+     2. Proficiency in programming languages such as Python, Java, or C++.
+     3. Experience with databases, web development, and software frameworks.
+     4. Strong problem-solving skills and attention to detail.
+     5. Ability to work both independently and in a team environment.

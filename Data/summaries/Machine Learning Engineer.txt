@@ -1,0 +1,13 @@
+* Role: Machine Learning Engineer
+   * Responsibilities:
+     + Develop and optimize machine learning models for various applications.
+     + Process and analyze large datasets to extract meaningful insights.
+     + Deploy and maintain AI models in production environments.
+     + Collaborate with data scientists, engineers, and product teams.
+     + Stay updated with the latest advancements in AI and ML.
+
+   * Qualifications:
+     + Degree in Computer Science, Data Science, or a related field (Bachelor's or Master's).
+     + Proficiency in Python, TensorFlow, PyTorch, and Scikit-learn.
+     + Experience with data preprocessing, model deployment, and cloud platforms.
+     + Strong problem-solving skills and analytical mindset.

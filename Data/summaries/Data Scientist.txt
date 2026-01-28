@@ -1,0 +1,15 @@
+- Job Title: Data Scientist
+
+   Responsibilities:
+     1. Collect, clean, and analyze large datasets.
+     2. Develop and deploy machine learning models.
+     3. Build predictive analytics solutions to improve business outcomes.
+     4. Communicate findings through reports and visualizations using tools like Tableau or Power BI.
+     5. Stay updated with advancements in data science and AI.
+
+   Qualifications:
+     1. Bachelor's or Master's degree in Data Science, Computer Science, or a related field.
+     2. Proficiency in Python, R, SQL, and machine learning frameworks.
+     3. Experience with data visualization tools like Tableau or Power BI.
+     4. Strong analytical and problem-solving skills.
+     5. Ability to work independently and in a team environment.

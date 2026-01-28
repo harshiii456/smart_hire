@@ -1,0 +1,26 @@
+Job Summary:
+
+   - Position: Software Architect
+   - Industry: Technology
+   - Experience Level: Experienced
+
+Responsibilities:
+
+   - Design and implement robust software architectures
+   - Guide development teams in best coding and design practices
+   - Ensure scalability, security, and performance of applications
+   - Conduct architectural reviews and optimize system workflows
+   - Stay updated with emerging technologies and industry trends
+
+Required Skills:
+
+   - Strong expertise in software design patterns and system architecture
+   - Proficiency in cloud computing, microservices, and DevOps practices
+   - Experience with programming languages like Java, Python, or C++
+   - Excellent problem-solving skills
+   - Leadership abilities
+
+Qualifications:
+
+   - Bachelor's/Masterâs degree in Computer Science or related field
+   - Demonstrated experience in the field of software architecture and design.

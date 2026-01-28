@@ -1,0 +1,11 @@
+- Role: Data Analyst/Business Intelligence Analyst
+   - Key Responsibilities:
+     1. Collect, process, and analyze business data to drive insights.
+     2. Develop interactive dashboards and reports using BI tools such as Power BI or Tableau.
+     3. Collaborate with teams to improve data-driven decision-making processes.
+     4. Ensure data accuracy and integrity in reporting.
+   - Required Qualifications:
+    1. Bachelor's degree in Data Science, Business Analytics, or a related field.
+    2. Proficiency in SQL and at least one of the following BI tools: Power BI, Tableau, or similar tools.
+    3. Strong analytical and problem-solving skills.
+    4. Experience in data visualization and statistical analysis.

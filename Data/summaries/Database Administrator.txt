@@ -1,0 +1,14 @@
+- **Responsibilities**:
+    1. Install, configure, and maintain database systems.
+    2. Optimize database performance and ensure data security.
+    3. Perform backups, recovery, and troubleshooting of databases.
+    4. Monitor system performance and resolve database-related issues.
+    5. Implement best practices for database design and management.
+
+   - **Required Skills**:
+    1. Proficiency in SQL and various database management systems (MySQL, PostgreSQL, Oracle, or MongoDB).
+    2. Experience in database security, backups, and optimization.
+
+   - **Qualifications**:
+    1. Bachelor's degree in Computer Science or a related field.
+    2. Strong problem-solving and analytical skills.

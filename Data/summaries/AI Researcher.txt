@@ -1,0 +1,12 @@
+- Role: AI Researcher
+   - Responsibilities:
+     - Conduct research in Artificial Intelligence (AI), Deep Learning, and Natural Language Processing (NLP).
+     - Develop and optimize machine learning models.
+     - Publish findings in top-tier conferences and journals.
+     - Collaborate with cross-functional teams to integrate AI solutions.
+     - Stay updated with the latest advancements and technologies in AI.
+   - Qualifications:
+     - Ph.D. or Master's degree in AI, Machine Learning, or a related field.
+     - Strong programming skills in Python, TensorFlow, or PyTorch.
+     - Experience with research methodologies and model optimization.
+     - Excellent problem-solving and analytical skills.

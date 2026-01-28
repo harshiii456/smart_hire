@@ -1,0 +1,13 @@
+- Role: DevOps Engineer
+   - Responsibilities:
+     - Design, develop, and maintain CI/CD pipelines for seamless deployment.
+     - Automate infrastructure management using tools such as Terraform or Ansible.
+     - Monitor system performance to ensure high availability and reliability.
+     - Collaborate with development and operations teams to optimize workflows.
+     - Implement security best practices, ensuring compliance in all systems.
+   - Qualifications:
+     - Bachelor's degree in Computer Science, IT, or related field.
+     - Proficiency in cloud platforms (AWS, Azure, or Google Cloud).
+     - Experience with containerization using Docker and Kubernetes.
+     - Strong scripting skills including Python, Bash, or PowerShell.
+     - Knowledge of configuration management tools like Ansible, Chef, or Puppet.

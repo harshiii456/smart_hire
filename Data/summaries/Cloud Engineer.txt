@@ -1,0 +1,12 @@
+- Role: Cloud Engineer
+   - Responsibilities:
+     1. Design and maintain cloud architecture for high availability and security.
+     2. Automate deployments and manage Continuous Integration/Continuous Deployment (CI/CD) pipelines.
+     3. Monitor cloud systems, troubleshoot issues, and optimize costs.
+     4. Implement security best practices and compliance measures.
+   - Required Skills:
+     1. Expertise with cloud platforms such as AWS, Azure, or Google Cloud.
+     2. Proficiency in infrastructure-as-code (Terraform, CloudFormation).
+     3. Strong scripting skills in Python, Bash, or PowerShell.
+   - Qualifications:
+     1. Bachelor's degree in Computer Science, IT, or a related field.

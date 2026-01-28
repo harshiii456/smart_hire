@@ -1,0 +1,12 @@
+- Position: Full Stack Developer
+     - Responsibilities:
+       - Design, develop, and maintain web applications using modern frontend and backend technologies.
+       - Collaborate with designers and backend engineers to implement new features.
+       - Optimize application performance and ensure scalability.
+       - Troubleshoot and debug issues in a fast-paced environment.
+       - Stay updated with emerging web technologies and best practices.
+     - Qualifications:
+       - Degree in Computer Science or related field, or equivalent experience.
+       - Proficiency in JavaScript, React, Node.js, and databases (SQL/NoSQL).
+       - Experience with RESTful APIs, cloud services, and version control (Git).
+       - Strong problem-solving skills and ability to work collaboratively in a team.

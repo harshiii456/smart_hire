@@ -1,0 +1,17 @@
+Job Summary:
+
+1. Role: Embedded Software Engineer or Developer
+2. Key Responsibility Areas:
+   - Develop, test, and optimize embedded software and firmware for various industries
+   - Collaborate with hardware teams to ensure seamless integration of the system
+   - Debug and troubleshoot real-time system issues
+   - Optimize power consumption and system performance
+   - Stay updated with emerging technologies in embedded systems
+
+3. Required Skills:
+   - Proficiency in C/C++, assembly language, and embedded Linux
+   - Experience with microcontrollers, Real-Time Operating Systems (RTOS), and hardware debugging tools
+   - Strong problem-solving and analytical skills
+
+4. Qualifications:
+   - Bachelor's degree in Electrical Engineering, Computer Engineering, or a related field
