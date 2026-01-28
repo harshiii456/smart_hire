@@ -7,3 +7,4 @@ requests
 sqlite-utils
 PyPDF2
 PyMuPDF
+pandas
